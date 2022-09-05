@@ -5,5 +5,6 @@ def foo():
         x+=y
         print(x)
         print(y)
+        print(x+y)
 
 foo()
